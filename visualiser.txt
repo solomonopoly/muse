@@ -171,7 +171,7 @@ function userStart() {
   
   txtStatus.innerHTML = '';
 
-  audioSetup( 'https://cdn.jsdelivr.net/gh/solomonopoly/muse/SLOTH.mp3' );
+  audioSetup( 'https://cdn.jsdelivr.net/gh/solomonopoly/muse/DADDY.mp3' );
   animate();
 
 };
